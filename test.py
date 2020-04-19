@@ -1,8 +1,8 @@
 from hyvee import Fiddler, SazParser
 
-# fiddler = Fiddler()
+fiddler = Fiddler()
 # fiddler.clean_fiddler_session()
-# fiddler.unpack_saz()
+fiddler.unpack_saz()
 
 
 sp = SazParser()

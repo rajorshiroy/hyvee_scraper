@@ -278,17 +278,8 @@ class Appium:
                 self.driver.find_element_by_id('com.hyvee.android:id/bottom_nav_list').click()
                 time.sleep(2)
                 return
-            except (WebDriverException, ProtocolError):
-                self.init_driver()
-
-    def open_deals(self):
-        while True:
-            try:
-                # print('opening deals page in Hy-Vee app')
-                self.driver.find_element_by_id('com.hyvee.android:id/bottom_nav_deals').click()
-                time.sleep(2)
-                return
-            except (WebDriverException, ProtocolError):
+            # except (WebDriverException, ProtocolError):
+            except:
                 self.init_driver()
 
     def open_my_account(self):
@@ -301,7 +292,8 @@ class Appium:
                     'new UiSelector().textContains("My Account")').click()
                 time.sleep(2)
                 return
-            except (WebDriverException, ProtocolError):
+            # except (WebDriverException, ProtocolError):
+            except:
                 self.init_driver()
 
     @staticmethod
