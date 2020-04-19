@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "1451",
+    "name": "Bloomington",
+    "address": "1403 N Veterans Pkwy"
+  },
+  {
+    "id": "20",
+    "name": "Canton",
+    "address": "825 North Main Street"
+  },
+  {
+    "id": "62",
+    "name": "Galesburg 1",
+    "address": "1975 National Boulevard"
+  },
+  {
+    "id": "63",
+    "name": "Galesburg 2",
+    "address": "2030 East Main Street"
+  },
+  {
+    "id": "863",
+    "name": "Hamilton Hy-Vee Clinic Pharmacy",
+    "address": "1075 Broadway Street"
+  },
+  {
+    "id": "107",
+    "name": "Macomb",
+    "address": "1600 East Jackson Street"
+  },
+  {
+    "id": "104",
+    "name": "Milan",
+    "address": "201 West Tenth Avenue"
+  },
+  {
+    "id": "105",
+    "name": "Moline 1",
+    "address": "4218 Avenue of the Cities"
+  },
+  {
+    "id": "527",
+    "name": "Moline 2",
+    "address": "John Deere Road"
+  },
+  {
+    "id": "531",
+    "name": "Peoria 1",
+    "address": "Sheridan Village"
+  },
+  {
+    "id": "1445",
+    "name": "Peoria 2",
+    "address": "7610 N Orange Prairie Rd"
+  },
+  {
+    "id": "135",
+    "name": "Peru",
+    "address": "1651 Midtown Road"
+  },
+  {
+    "id": "138",
+    "name": "Quincy 1",
+    "address": "1400 Harrison Street"
+  },
+  {
+    "id": "139",
+    "name": "Quincy 2",
+    "address": "3700 Broadway Street"
+  },
+  {
+    "id": "145",
+    "name": "Rock Island",
+    "address": "2930 18th Avenue"
+  },
+  {
+    "id": "150",
+    "name": "Silvis",
+    "address": "2001 5th Street"
+  },
+  {
+    "id": "1438",
+    "name": "Springfield IL",
+    "address": "2115 S. MacArthur Boulevard"
+  },
+  {
+    "id": "978",
+    "name": "Sycamore",
+    "address": "2700 DeKalb Avenue"
+  },
+  {
+    "id": "2",
+    "name": "Albia",
+    "address": "301 Highway 34 West"
+  },
+  {
+    "id": "3",
+    "name": "Algona",
+    "address": "1500 Highway 169 North"
+  },
+  {
+    "id": "4",
+    "name": "Altoona",
+    "address": "108 8th Street SW"
+  },
+  {
+    "id": "2520",
+    "name": "Altoona Fast & Fresh",
+    "address": "3950 Prairie Fire NW"
+  },
+  {
+    "id": "509",
+    "name": "Ames Clinic Pharmacy",
+    "address": "1215 Duff Avenue"
+  },
+  {
+    "id": "5",
+    "name": "Ames 1",
+    "address": "3800 Lincoln Way"
+  },
+  {
+    "id": "186",
+    "name": "Ames Hy-Vee Drugstore",
+    "address": "500 Main Street"
+  },
+  {
+    "id": "6",
+    "name": "Ames 2",
+    "address": "640 Lincoln Way"
+  },
+  {
+    "id": "1333",
+    "name": "Ankeny 2",
+    "address": "Ankeny Prairie Trail"
+  },
+  {
+    "id": "8",
+    "name": "Ankeny 1",
+    "address": "Ankeny North"
+  },
+  {
+    "id": "9",
+    "name": "Atlantic",
+    "address": "1630 East 7th Street"
+  },
+  {
+    "id": "11",
+    "name": "Bedford",
+    "address": "1604 Bent St"
+  },
+  {
+    "id": "15",
+    "name": "Bettendorf",
+    "address": "2900 Devils Glen Road"
+  },
+  {
+    "id": "514",
+    "name": "Bloomfield Clinic Pharmacy",
+    "address": "301 W. Jefferson Street"
+  },
+  {
+    "id": "16",
+    "name": "Boone",
+    "address": "1111 8th Street"
+  },
+  {
+    "id": "19",
+    "name": "Burlington 2",
+    "address": "3140 Agency St"
+  },
+  {
+    "id": "18",
+    "name": "Burlington 1",
+    "address": "939 Angular Street"
+  },
+  {
+    "id": "21",
+    "name": "Carroll",
+    "address": "905 US Highway 30 West"
+  },
+  {
+    "id": "22",
+    "name": "Cedar Falls",
+    "address": "6301 University Avenue"
+  },
+  {
+    "id": "189",
+    "name": "Cedar Rapids Hy-Vee Drugstore 1",
+    "address": "Sixth Street Drugstore"
+  },
+  {
+    "id": "27",
+    "name": "Cedar Rapids 4",
+    "address": "1556 First Avenue NE"
+  },
+  {
+    "id": "23",
+    "name": "Cedar Rapids 1",
+    "address": "1843 Johnson Avenue NW"
+  },
+  {
+    "id": "25",
+    "name": "Cedar Rapids 3",
+    "address": "20 Wilson Avenue SW"
+  },
+  {
+    "id": "193",
+    "name": "Cedar Rapids Hy-Vee Drugstore 5",
+    "address": "2001 Blairs Ferry Road NE"
+  },
+  {
+    "id": "24",
+    "name": "Cedar Rapids 2",
+    "address": "279 Collins Road NE"
+  },
+  {
+    "id": "28",
+    "name": "Cedar Rapids 5",
+    "address": "3235 Oakland Road NE"
+  },
+  {
+    "id": "29",
+    "name": "Cedar Rapids 6",
+    "address": "4035 Mount Vernon Road SE"
+  },
+  {
+    "id": "192",
+    "name": "Cedar Rapids Hy-Vee Drugstore 4",
+    "address": "4825 Johnson Avenue NW"
+  },
+  {
+    "id": "188",
+    "name": "Cedar Rapids Hy-Vee Drugstore 6",
+    "address": "505 Boyson Road NE"
+  },
+  {
+    "id": "234",
+    "name": "Cedar Rapids 7",
+    "address": "5050 Edgewood Road NE"
+  },
+  {
+    "id": "26",
+    "name": "Centerville Dollar Fresh",
+    "address": "609 North 18th Street"
+  },
+  {
+    "id": "30",
+    "name": "Chariton",
+    "address": "2001 Court Ave"
+  },
+  {
+    "id": "33",
+    "name": "Charles City",
+    "address": "901 Kelly Street"
+  },
+  {
+    "id": "31",
+    "name": "Cherokee",
+    "address": "1300 North 2nd Street"
+  },
+  {
+    "id": "1024",
+    "name": "Cherokee Hy-Vee Clinic Pharmacy",
+    "address": "800 N. 2nd Street"
+  },
+  {
+    "id": "32",
+    "name": "Clarinda",
+    "address": "1200 South 16th Street"
+  },
+  {
+    "id": "34",
+    "name": "Clinton",
+    "address": "901 South 4th Street"
+  },
+  {
+    "id": "231",
+    "name": "Columbus Junction Clinic Pharmacy",
+    "address": "111 E. Walnut Street"
+  },
+  {
+    "id": "37",
+    "name": "Coralville 1",
+    "address": "Lantern Park Plaza"
+  },
+  {
+    "id": "1881",
+    "name": "Coralville 2",
+    "address": "3285 Crosspark Road"
+  },
+  {
+    "id": "38",
+    "name": "Corning",
+    "address": "300 10th St"
+  },
+  {
+    "id": "1183",
+    "name": "Corning Clinic Pharmacy",
+    "address": "625 Davis Avenue"
+  },
+  {
+    "id": "39",
+    "name": "Corydon Hy-Vee Mainstreet",
+    "address": "103 E. Jackson St."
+  },
+  {
+    "id": "42",
+    "name": "Council Bluffs 2",
+    "address": "1745 Madison Avenue"
+  },
+  {
+    "id": "40",
+    "name": "Council Bluffs 1",
+    "address": "2323 W. Broadway"
+  },
+  {
+    "id": "197",
+    "name": "Council Bluffs Hy-Vee Drugstore",
+    "address": "757 West Broadway"
+  },
+  {
+    "id": "41",
+    "name": "Creston Dollar Fresh",
+    "address": "600 Sheldon Street"
+  },
+  {
+    "id": "45",
+    "name": "Davenport 3",
+    "address": "1823 East Kimberly Rd"
+  },
+  {
+    "id": "44",
+    "name": "Davenport 2",
+    "address": "2200 West Kimberly Road"
+  },
+  {
+    "id": "225",
+    "name": "Davenport 5",
+    "address": "2351 West Locust Street"
+  },
+  {
+    "id": "43",
+    "name": "Davenport 1",
+    "address": "3019 Rockingham Road"
+  },
+  {
+    "id": "2521",
+    "name": "Davenport Fast & Fresh",
+    "address": "3200 Kimberly Road"
+  },
+  {
+    "id": "223",
+    "name": "Davenport 4",
+    "address": "4064 East 53rd Street"
+  },
+  {
+    "id": "46",
+    "name": "Denison",
+    "address": "1426 Broadway"
+  },
+  {
+    "id": "51",
+    "name": "Des Moines 5",
+    "address": "1107 E Army Post Road"
+  },
+  {
+    "id": "48",
+    "name": "Des Moines 2",
+    "address": "2540 East Euclid Ave"
+  },
+  {
+    "id": "49",
+    "name": "Des Moines 3",
+    "address": "3221 SE 14th St"
+  },
+  {
+    "id": "47",
+    "name": "Des Moines 1",
+    "address": "3330 Martin Luther King Jr. Pkwy"
+  },
+  {
+    "id": "198",
+    "name": "Des Moines Hy-Vee Drugstore",
+    "address": "4100 University Avenue"
+  },
+  {
+    "id": "1559",
+    "name": "Des Moines 6",
+    "address": "420 Court Ave"
+  },
+  {
+    "id": "50",
+    "name": "Des Moines 4",
+    "address": "4605 Fleur Drive"
+  },
+  {
+    "id": "2167",
+    "name": "Des Moines Fast & Fresh",
+    "address": "5801 Hickman Road"
+  },
+  {
+    "id": "53",
+    "name": "Dubuque 2",
+    "address": "2395 NW Arterial"
+  },
+  {
+    "id": "52",
+    "name": "Dubuque 1",
+    "address": "3500 Dodge Street"
+  },
+  {
+    "id": "235",
+    "name": "Dubuque 3",
+    "address": "400 South Locust"
+  },
+  {
+    "id": "1976",
+    "name": "Durant Pharmacy Clinic",
+    "address": "621 5th Street"
+  },
+  {
+    "id": "54",
+    "name": "Eldora",
+    "address": "1616 Edgington Avenue"
+  },
+  {
+    "id": "2033",
+    "name": "Emmetsburg Dollar Fresh",
+    "address": "3402 Main Street"
+  },
+  {
+    "id": "55",
+    "name": "Estherville",
+    "address": "1221 Central Avenue"
+  },
+  {
+    "id": "57",
+    "name": "Fairfield",
+    "address": "1300 West Burlington Avenue"
+  },
+  {
+    "id": "2034",
+    "name": "Forest City",
+    "address": "315 US Hwy 69"
+  },
+  {
+    "id": "60",
+    "name": "Fort Dodge",
+    "address": "115 South 29th Street"
+  },
+  {
+    "id": "61",
+    "name": "Fort Madison",
+    "address": "2606 Avenue L"
+  },
+  {
+    "id": "2099",
+    "name": "Garner",
+    "address": "255 W Hwy 18"
+  },
+  {
+    "id": "1378",
+    "name": "Glenwood Hy-Vee Clinic Pharmacy",
+    "address": "409 S. Locust"
+  },
+  {
+    "id": "511",
+    "name": "Grimes Clinic Pharmacy",
+    "address": "1541 S.E. 3rd Street"
+  },
+  {
+    "id": "66",
+    "name": "Grinnell",
+    "address": "320 West St S"
+  },
+  {
+    "id": "67",
+    "name": "Harlan",
+    "address": "2003 Chatburn Ave"
+  },
+  {
+    "id": "68",
+    "name": "Humboldt",
+    "address": "611 - 10th Avenue North"
+  },
+  {
+    "id": "510",
+    "name": "Huxley Hy-Vee Clinic Pharmacy",
+    "address": "303 S. Highway 69, Suite B"
+  },
+  {
+    "id": "70",
+    "name": "Indianola",
+    "address": "910 N Jefferson Way"
+  },
+  {
+    "id": "73",
+    "name": "Iowa City 3",
+    "address": "1125 North Dodge Street"
+  },
+  {
+    "id": "71",
+    "name": "Iowa City 1",
+    "address": "1720 Waterfront Drive"
+  },
+  {
+    "id": "202",
+    "name": "Iowa City Hy-Vee Drugstore",
+    "address": "310 North 1st Avenue"
+  },
+  {
+    "id": "72",
+    "name": "Iowa City 2",
+    "address": "812 South First Avenue"
+  },
+  {
+    "id": "74",
+    "name": "Iowa Falls",
+    "address": "632 S Oak Street"
+  },
+  {
+    "id": "203",
+    "name": "Jefferson",
+    "address": "106 W Washington Street"
+  },
+  {
+    "id": "76",
+    "name": "Johnston",
+    "address": "5750 Merle Hay Road"
+  },
+  {
+    "id": "78",
+    "name": "Keokuk",
+    "address": "3111 Main Street"
+  },
+  {
+    "id": "80",
+    "name": "Knoxville",
+    "address": "809 West Rock Island Street"
+  },
+  {
+    "id": "1368",
+    "name": "Lamoni Clinic Pharmacy",
+    "address": "101 East Main"
+  },
+  {
+    "id": "81",
+    "name": "Lamoni",
+    "address": "720 E Main St"
+  },
+  {
+    "id": "518",
+    "name": "Laurens Clinic Pharmacy",
+    "address": "113 N. 3rd St."
+  },
+  {
+    "id": "87",
+    "name": "Le Mars",
+    "address": "1201 12th Avenue SW"
+  },
+  {
+    "id": "94",
+    "name": "Leon",
+    "address": "1004 West 1st Street"
+  },
+  {
+    "id": "1419",
+    "name": "Leon Clinic Pharmacy",
+    "address": "204 North Main Street"
+  },
+  {
+    "id": "1735",
+    "name": "Manson Clinic Pharmacy",
+    "address": "1224 10th Ave N"
+  },
+  {
+    "id": "519",
+    "name": "Marcus Clinic Pharmacy",
+    "address": "321 N. Main Street"
+  },
+  {
+    "id": "204",
+    "name": "Marion Hy-Vee Drugstore",
+    "address": "2790 7th Avenue"
+  },
+  {
+    "id": "98",
+    "name": "Marion",
+    "address": "3600 Business Highway 151"
+  },
+  {
+    "id": "205",
+    "name": "Marshalltown Hy-Vee Drugstore",
+    "address": "1706 South Center Street"
+  },
+  {
+    "id": "100",
+    "name": "Marshalltown",
+    "address": "802 South Center Street"
+  },
+  {
+    "id": "102",
+    "name": "Mason City 1",
+    "address": "2400 4th Street SW"
+  },
+  {
+    "id": "103",
+    "name": "Mason City 2",
+    "address": "551 South Illinois Avenue"
+  },
+  {
+    "id": "206",
+    "name": "Mason City Hy-Vee Drugstore",
+    "address": "875 Fourth Street SW"
+  },
+  {
+    "id": "512",
+    "name": "Milford Clinic Pharmacy",
+    "address": "1012 Okoboji Avenue"
+  },
+  {
+    "id": "106",
+    "name": "Mount Ayr",
+    "address": "402 South Hayes Street"
+  },
+  {
+    "id": "2035",
+    "name": "Mount Ayr Pharmacy",
+    "address": "406 S. Hayes Street"
+  },
+  {
+    "id": "109",
+    "name": "Mount Pleasant",
+    "address": "1700 East Washington Street"
+  },
+  {
+    "id": "521",
+    "name": "Mount Pleasant Clinic Pharmacy",
+    "address": "501 S. White"
+  },
+  {
+    "id": "110",
+    "name": "Muscatine",
+    "address": "2400 Second Avenue"
+  },
+  {
+    "id": "209",
+    "name": "Muscatine Hy-Vee Mainstreet",
+    "address": "510 East Sixth Street"
+  },
+  {
+    "id": "112",
+    "name": "Newton",
+    "address": "1501 1st Avenue East"
+  },
+  {
+    "id": "124",
+    "name": "Osceola Dollar Fresh",
+    "address": "510 West McLane Street"
+  },
+  {
+    "id": "125",
+    "name": "Oskaloosa",
+    "address": "110 South D Street"
+  },
+  {
+    "id": "126",
+    "name": "Ottumwa 1",
+    "address": "1025 North Quincy Avenue"
+  },
+  {
+    "id": "211",
+    "name": "Ottumwa Hy-Vee Drugstore",
+    "address": "1140 North Jefferson"
+  },
+  {
+    "id": "127",
+    "name": "Ottumwa 2",
+    "address": "2453 N. Court"
+  },
+  {
+    "id": "133",
+    "name": "Pella",
+    "address": "118 Southeast 9th Street"
+  },
+  {
+    "id": "134",
+    "name": "Perry",
+    "address": "1215 141st St"
+  },
+  {
+    "id": "136",
+    "name": "Pleasant Hill",
+    "address": "4815 Maple Drive"
+  },
+  {
+    "id": "142",
+    "name": "Red Oak",
+    "address": "1605 Broadway Street"
+  },
+  {
+    "id": "149",
+    "name": "Sheldon",
+    "address": "1989 Park Street"
+  },
+  {
+    "id": "155",
+    "name": "Shenandoah",
+    "address": "500 S Fremont St"
+  },
+  {
+    "id": "157",
+    "name": "Sioux Center",
+    "address": "1951 South Main Avenue"
+  },
+  {
+    "id": "212",
+    "name": "Sioux City Hy-Vee Mainstreet",
+    "address": "2611 Pierce Street"
+  },
+  {
+    "id": "151",
+    "name": "Sioux City 1",
+    "address": "2827 Hamilton Boulevard"
+  },
+  {
+    "id": "153",
+    "name": "Sioux City 3",
+    "address": "3301 Gordon Drive"
+  },
+  {
+    "id": "152",
+    "name": "Sioux City 2",
+    "address": "4500 Sergeant Road"
+  },
+  {
+    "id": "164",
+    "name": "Spencer",
+    "address": "819 Grand Ave"
+  },
+  {
+    "id": "159",
+    "name": "Spirit Lake",
+    "address": "1500 18th Street"
+  },
+  {
+    "id": "163",
+    "name": "Storm Lake",
+    "address": "1250 Lake Avenue"
+  },
+  {
+    "id": "525",
+    "name": "Storm Lake Hy-Vee Bedel Clinic Pharmacy",
+    "address": "409 W. 5th Street"
+  },
+  {
+    "id": "2036",
+    "name": "Toledo Dollar Fresh",
+    "address": "1006 S. County Road"
+  },
+  {
+    "id": "168",
+    "name": "Urbandale",
+    "address": "8701 Douglas Avenue"
+  },
+  {
+    "id": "1648",
+    "name": "Victor Clinic Pharmacy",
+    "address": "205 Washington St."
+  },
+  {
+    "id": "232",
+    "name": "Wapello Clinic Pharmacy",
+    "address": "312 North 2nd Street"
+  },
+  {
+    "id": "171",
+    "name": "Washington",
+    "address": "528 South Highway 1"
+  },
+  {
+    "id": "174",
+    "name": "Waterloo 3",
+    "address": "1422 Flammang Drive"
+  },
+  {
+    "id": "173",
+    "name": "Waterloo 2",
+    "address": "2181 Logan Avenue"
+  },
+  {
+    "id": "172",
+    "name": "Waterloo 1",
+    "address": "Ansborough Avenue"
+  },
+  {
+    "id": "1199",
+    "name": "Waukee",
+    "address": "1005 E. Hickman Road"
+  },
+  {
+    "id": "177",
+    "name": "Waverly",
+    "address": "1311 4th Street SW"
+  },
+  {
+    "id": "178",
+    "name": "Webster City",
+    "address": "823 Second Street"
+  },
+  {
+    "id": "222",
+    "name": "West Des Moines Hy-Vee Drugstore",
+    "address": "1010 60th Street"
+  },
+  {
+    "id": "179",
+    "name": "West Des Moines 1",
+    "address": "1700 Valley West Drive"
+  },
+  {
+    "id": "181",
+    "name": "West Des Moines 3",
+    "address": "1725 Jordan Creek Pkwy"
+  },
+  {
+    "id": "180",
+    "name": "West Des Moines 2",
+    "address": "1990 Grand Avenue"
+  },
+  {
+    "id": "1858",
+    "name": "West Des Moines HealthMarket",
+    "address": "375 S Jordan Creek Pkwy"
+  },
+  {
+    "id": "236",
+    "name": "West Des Moines 4",
+    "address": "555 S 51st St"
+  },
+  {
+    "id": "1649",
+    "name": "West Liberty Hy-Vee Drugstore",
+    "address": "311 West Rainbow Drive"
+  },
+  {
+    "id": "183",
+    "name": "Windsor Heights",
+    "address": "7101 University Avenue"
+  },
+  {
+    "id": "1495",
+    "name": "Winterset",
+    "address": "923 N. 1st Street"
+  },
+  {
+    "id": "82",
+    "name": "Lawrence 1",
+    "address": "3504 Clinton Parkway"
+  },
+  {
+    "id": "88",
+    "name": "Lenexa",
+    "address": "13400 W 87th St"
+  },
+  {
+    "id": "530",
+    "name": "Manhattan",
+    "address": "601 3rd Place"
+  },
+  {
+    "id": "108",
+    "name": "Mission",
+    "address": "6655 Martway Street"
+  },
+  {
+    "id": "116",
+    "name": "Olathe 1",
+    "address": "14955 West 151st Street"
+  },
+  {
+    "id": "501",
+    "name": "Olathe 2",
+    "address": "Ridgeview"
+  },
+  {
+    "id": "128",
+    "name": "Overland Park 1",
+    "address": "8501 West 95th Street"
+  },
+  {
+    "id": "129",
+    "name": "Overland Park 2",
+    "address": "8900 West 135th Street"
+  },
+  {
+    "id": "137",
+    "name": "Prairie Village",
+    "address": "7620 State Line Road"
+  },
+  {
+    "id": "147",
+    "name": "Shawnee",
+    "address": "13550 West 63rd Street"
+  },
+  {
+    "id": "508",
+    "name": "Topeka",
+    "address": "2951 SW Wanamaker Road"
+  },
+  {
+    "id": "7",
+    "name": "Albert Lea",
+    "address": "2708 Bridge Avenue"
+  },
+  {
+    "id": "10",
+    "name": "Austin",
+    "address": "1307 18th Ave NW"
+  },
+  {
+    "id": "1516",
+    "name": "Brooklyn Park",
+    "address": "9409 Zane Ave N"
+  },
+  {
+    "id": "1615",
+    "name": "Cottage Grove",
+    "address": "7280 E Point Douglas Rd S"
+  },
+  {
+    "id": "1518",
+    "name": "Eagan",
+    "address": "1500 Central Park Commons Drive"
+  },
+  {
+    "id": "58",
+    "name": "Fairmont",
+    "address": "907 South State Street"
+  },
+  {
+    "id": "56",
+    "name": "Faribault",
+    "address": "1920 Grant Street NW"
+  },
+  {
+    "id": "2048",
+    "name": "Kasson Hy-Vee HealthMarket Rx",
+    "address": "408 W. Main Street"
+  },
+  {
+    "id": "1517",
+    "name": "Lakeville",
+    "address": "16150 Pilot Knob Road"
+  },
+  {
+    "id": "2170",
+    "name": "Lakeville Fast & Fresh",
+    "address": "17380 Cedar Ave."
+  },
+  {
+    "id": "97",
+    "name": "Mankato 2",
+    "address": "2010 Adams Street"
+  },
+  {
+    "id": "96",
+    "name": "Mankato 1",
+    "address": "410 South Riverfront Drive"
+  },
+  {
+    "id": "2223",
+    "name": "Maple Grove",
+    "address": "18755 70th Way North"
+  },
+  {
+    "id": "99",
+    "name": "Marshall",
+    "address": "900 East Main Street"
+  },
+  {
+    "id": "1508",
+    "name": "New Hope",
+    "address": "8200 - 42nd Avenue North"
+  },
+  {
+    "id": "111",
+    "name": "New Ulm",
+    "address": "2015 South Broadway Street"
+  },
+  {
+    "id": "1509",
+    "name": "Oakdale",
+    "address": "7180 - 10th Street North"
+  },
+  {
+    "id": "131",
+    "name": "Owatonna",
+    "address": "1620 S Cedar Ave"
+  },
+  {
+    "id": "2049",
+    "name": "Pine Island Hy-Vee HealthMarket Rx",
+    "address": "111 County Road 11"
+  },
+  {
+    "id": "2050",
+    "name": "Plainview Hy-Vee HealthMarket Rx",
+    "address": "435 West Broadway"
+  },
+  {
+    "id": "1887",
+    "name": "Plymouth",
+    "address": "16705 County Road 24"
+  },
+  {
+    "id": "2051",
+    "name": "Preston Hy-Vee HealthMarket Rx",
+    "address": "136 Main Street SW"
+  },
+  {
+    "id": "1877",
+    "name": "Robbinsdale",
+    "address": "3505 Bottineau Blvd."
+  },
+  {
+    "id": "146",
+    "name": "Rochester 3",
+    "address": "1315 6th Street NW"
+  },
+  {
+    "id": "2052",
+    "name": "Rochester Hy-Vee HealthMarket Rx",
+    "address": "18 9th Street SE"
+  },
+  {
+    "id": "1499",
+    "name": "Rochester 4",
+    "address": "4221 W Circle Drive NW"
+  },
+  {
+    "id": "144",
+    "name": "Rochester 2",
+    "address": "Rochester North"
+  },
+  {
+    "id": "143",
+    "name": "Rochester 1",
+    "address": "500 Crossroads Drive SW"
+  },
+  {
+    "id": "1558",
+    "name": "Savage",
+    "address": "6150 Egan Dr."
+  },
+  {
+    "id": "1651",
+    "name": "Shakopee",
+    "address": "1451 Adams Street South"
+  },
+  {
+    "id": "2055",
+    "name": "Spring Valley Hy-Vee HealthMarket Rx",
+    "address": "802 Memorial Dr."
+  },
+  {
+    "id": "2054",
+    "name": "St. Charles Hy-Vee HealthMarket Rx",
+    "address": "401 West 4th Street"
+  },
+  {
+    "id": "2037",
+    "name": "St. Peter Pharmacy",
+    "address": "1002 Old Minnesota Ave"
+  },
+  {
+    "id": "2056",
+    "name": "Stewartville Hy-Vee HealthMarket Rx",
+    "address": "220 Center Town Plaza N"
+  },
+  {
+    "id": "182",
+    "name": "Windom",
+    "address": "192 - 10th Street"
+  },
+  {
+    "id": "221",
+    "name": "Winona",
+    "address": "1475 W Service Dr"
+  },
+  {
+    "id": "184",
+    "name": "Worthington",
+    "address": "1235 Oxford Street"
+  },
+  {
+    "id": "2057",
+    "name": "Zumbrota Hy-Vee HealthMarket Rx",
+    "address": "370 S. Main Street"
+  },
+  {
+    "id": "1",
+    "name": "Albany",
+    "address": "703 E. US Highway 136"
+  },
+  {
+    "id": "13",
+    "name": "Belton",
+    "address": "1307 East North Avenue"
+  },
+  {
+    "id": "14",
+    "name": "Bethany",
+    "address": "1104 South 25th Street"
+  },
+  {
+    "id": "12",
+    "name": "Blue Springs",
+    "address": "625 W. U.S. Highway 40"
+  },
+  {
+    "id": "35",
+    "name": "Chillicothe",
+    "address": "1210 Washington Street"
+  },
+  {
+    "id": "710",
+    "name": "Columbia 3",
+    "address": "25 Conley Road"
+  },
+  {
+    "id": "220",
+    "name": "Columbia 1",
+    "address": "3100 West Broadway"
+  },
+  {
+    "id": "550",
+    "name": "Columbia 2",
+    "address": "Rock Bridge"
+  },
+  {
+    "id": "64",
+    "name": "Gladstone",
+    "address": "7117 North Prospect Avenue"
+  },
+  {
+    "id": "65",
+    "name": "Grant City",
+    "address": "111 East 2nd Street"
+  },
+  {
+    "id": "69",
+    "name": "Independence 1",
+    "address": "1525 East 23rd Street South"
+  },
+  {
+    "id": "228",
+    "name": "Independence 2",
+    "address": "4545 South Noland Road"
+  },
+  {
+    "id": "75",
+    "name": "Jefferson City",
+    "address": "3721 West Truman Boulevard"
+  },
+  {
+    "id": "227",
+    "name": "Kansas City 2",
+    "address": "207 Northeast Englewood Road"
+  },
+  {
+    "id": "1002",
+    "name": "Kansas City 3",
+    "address": "5330 NW 64th Street"
+  },
+  {
+    "id": "77",
+    "name": "Kansas City 1",
+    "address": "8301 N St. Clair Avenue"
+  },
+  {
+    "id": "79",
+    "name": "Kirksville",
+    "address": "500 North Baltimore Street"
+  },
+  {
+    "id": "85",
+    "name": "Lee's Summit 1",
+    "address": "301 NE Rice Road"
+  },
+  {
+    "id": "86",
+    "name": "Lee's Summit 2",
+    "address": "310 SW Ward Road"
+  },
+  {
+    "id": "89",
+    "name": "Liberty",
+    "address": "109 North Blue Jay Drive"
+  },
+  {
+    "id": "101",
+    "name": "Maryville",
+    "address": "1217 South Main St"
+  },
+  {
+    "id": "513",
+    "name": "Osage Beach Clinic Pharmacy",
+    "address": "5816 Osage Beach Parkway, Suite104"
+  },
+  {
+    "id": "230",
+    "name": "Osage Beach",
+    "address": "929 Highway D"
+  },
+  {
+    "id": "522",
+    "name": "Princeton Clinic Pharmacy",
+    "address": "710 Main"
+  },
+  {
+    "id": "141",
+    "name": "Raytown",
+    "address": "9400 E. 350 Highway"
+  },
+  {
+    "id": "1018",
+    "name": "Springfield MO",
+    "address": "1720 W Battlefield St"
+  },
+  {
+    "id": "224",
+    "name": "St. Joseph",
+    "address": "201 North Belt Highway"
+  },
+  {
+    "id": "165",
+    "name": "Tarkio",
+    "address": "110 Chestnut Street"
+  },
+  {
+    "id": "166",
+    "name": "Trenton",
+    "address": "1617 East 9th Street"
+  },
+  {
+    "id": "167",
+    "name": "Unionville Hy-Vee Mainstreet",
+    "address": "2525 Main St"
+  },
+  {
+    "id": "36",
+    "name": "Columbus",
+    "address": "3010 23rd Street"
+  },
+  {
+    "id": "59",
+    "name": "Fremont",
+    "address": "840 East 23rd Street"
+  },
+  {
+    "id": "506",
+    "name": "Grand Island",
+    "address": "115 Wilmar Avenue"
+  },
+  {
+    "id": "1376",
+    "name": "Kearney",
+    "address": "5212 - 3rd Avenue"
+  },
+  {
+    "id": "91",
+    "name": "Lincoln 2",
+    "address": "1601 N. 84th Street"
+  },
+  {
+    "id": "90",
+    "name": "Lincoln 1",
+    "address": "5010 O Street"
+  },
+  {
+    "id": "92",
+    "name": "Lincoln 3",
+    "address": "5020 North 27th Street"
+  },
+  {
+    "id": "93",
+    "name": "Lincoln 4",
+    "address": "6001 Village Drive"
+  },
+  {
+    "id": "95",
+    "name": "Lincoln 5",
+    "address": "70th & Pioneers"
+  },
+  {
+    "id": "114",
+    "name": "Norfolk 1",
+    "address": "120 East Norfolk Avenue"
+  },
+  {
+    "id": "115",
+    "name": "Norfolk 2",
+    "address": "2107 Taylor Avenue"
+  },
+  {
+    "id": "1003",
+    "name": "Omaha 11",
+    "address": "180th & Pacific"
+  },
+  {
+    "id": "119",
+    "name": "Omaha 4",
+    "address": "10808 Fort Street"
+  },
+  {
+    "id": "118",
+    "name": "Omaha 2",
+    "address": "14591 Stony Brook Boulevard"
+  },
+  {
+    "id": "226",
+    "name": "Omaha 9",
+    "address": "180th & Q"
+  },
+  {
+    "id": "229",
+    "name": "Omaha 10",
+    "address": "156th & Maple"
+  },
+  {
+    "id": "117",
+    "name": "Omaha 1",
+    "address": "5150 Center Street"
+  },
+  {
+    "id": "123",
+    "name": "Omaha 8",
+    "address": "747 North 132nd Street"
+  },
+  {
+    "id": "122",
+    "name": "Omaha 5",
+    "address": "7910 Cass Street"
+  },
+  {
+    "id": "210",
+    "name": "Omaha Hy-Vee Drugstore",
+    "address": "Florence Drugstore"
+  },
+  {
+    "id": "121",
+    "name": "Omaha 3",
+    "address": "8809 West Center Road"
+  },
+  {
+    "id": "140",
+    "name": "Omaha 6",
+    "address": "96th & Q"
+  },
+  {
+    "id": "504",
+    "name": "Papillion",
+    "address": "11650 South 73rd Street"
+  },
+  {
+    "id": "1171",
+    "name": "Plattsmouth",
+    "address": "16418 Westside Drive"
+  },
+  {
+    "id": "156",
+    "name": "South Sioux City",
+    "address": "2501 Cornhusker Drive"
+  },
+  {
+    "id": "2038",
+    "name": "West Point Dollar Fresh",
+    "address": "500 Plaza Drive"
+  },
+  {
+    "id": "17",
+    "name": "Brookings",
+    "address": "790 - 22nd Avenue South"
+  },
+  {
+    "id": "859",
+    "name": "Sioux Falls 6",
+    "address": "At Cliff"
+  },
+  {
+    "id": "158",
+    "name": "Sioux Falls 1",
+    "address": "1601 South Sycamore Avenue"
+  },
+  {
+    "id": "162",
+    "name": "Sioux Falls 4",
+    "address": "1900 South Marion Road"
+  },
+  {
+    "id": "916",
+    "name": "Sioux Falls 7",
+    "address": "2700 West 10th Street"
+  },
+  {
+    "id": "161",
+    "name": "Sioux Falls 3",
+    "address": "3000 South Minnesota Avenue"
+  },
+  {
+    "id": "215",
+    "name": "Sioux Falls 5",
+    "address": "3020 East 10th Street"
+  },
+  {
+    "id": "160",
+    "name": "Sioux Falls 2",
+    "address": "4101 South Louise Avenue"
+  },
+  {
+    "id": "169",
+    "name": "Vermillion",
+    "address": "525 West Cherry Street"
+  },
+  {
+    "id": "176",
+    "name": "Watertown",
+    "address": "1320 9th Avenue SE"
+  },
+  {
+    "id": "185",
+    "name": "Yankton",
+    "address": "2100 Broadway Avenue"
+  },
+  {
+    "id": "1342",
+    "name": "Fitchburg",
+    "address": "2920 Fitchrona Road"
+  },
+  {
+    "id": "529",
+    "name": "Madison 1",
+    "address": "3801 East Washington Avenue"
+  },
+  {
+    "id": "1332",
+    "name": "Madison 2",
+    "address": "Whitney Way"
+  }
+]
